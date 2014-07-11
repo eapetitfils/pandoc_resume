@@ -1,7 +1,7 @@
 % The Markdown Resume
 
-(Shameless plug: I'm actually looking for work; please check out my
-actual resume [here](CV_Mark_Szepieniec.pdf)!)
+(Shameless plug: I'm actually looking for work as a data scientist;
+please check out my real resume [here](CV_Mark_Szepieniec.pdf)!)
 
 Maintaining a resume is one of those annoying tasks that always takes
 up much more time than it should. Compounding this is the fact
