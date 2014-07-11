@@ -1,5 +1,8 @@
 % The Markdown Resume
 
+(Shameless plug: I'm actually looking for work; please check out my
+actual resume [here](CV_Mark_Szepieniec.pdf)!)
+
 Maintaining a resume is one of those annoying tasks that always takes
 up much more time than it should. Compounding this is the fact
 that resumes are regularly requested in different formats: raw text, pdf,
